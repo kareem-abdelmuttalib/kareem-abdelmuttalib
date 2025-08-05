@@ -1,7 +1,7 @@
 # Kareem Abdelmuttalib
 
-**Cybersecurity Researcher | PET Developer**  
-Focus: Anonymous Networking, Low-Level Systems, Ethical Security Tools
+**Penetration Tester | Security Researcher**  
+Focus: Specializing in penetration testing, web app security, and threat intelligence.
 
 ## Core Expertise
 - Privacy-Enhancing Technologies (Tor, MAC/IP Rotation)
