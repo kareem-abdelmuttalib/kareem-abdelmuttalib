@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portfolio.png" alt="Portfolio" />
+</p>
+
 # Kareem Abdelmuttalib
 
 **Penetration Tester | Security Researcher**  
